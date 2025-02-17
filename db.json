@@ -1,0 +1,44 @@
+{
+    "frase": [
+        {
+            "id": 1,
+            "quote": "Ogni giorno è una nuova opportunità per crescere."
+        },
+        {
+            "id": 2,
+            "quote": "Non c'è limite a ciò che puoi realizzare se ci credi davvero."
+        },
+        {
+            "id": 3,
+            "quote": "Il successo non è la chiave della felicità, la felicità è la chiave del successo."
+        },
+        {
+            "id": 4,
+            "quote": "Le difficoltà sono solo opportunità travestite."
+        },
+        {
+            "id": 5,
+            "quote": "La tua unica competizione è la persona che eri ieri."
+        },
+        {
+            "id": 6,
+            "quote": "Sogna in grande, inizia in piccolo, agisci ora."
+        },
+        {
+            "id": 7,
+            "quote": "Non smettere mai di credere in te stesso."
+        },
+        {
+            "id": 8,
+            "quote": "Le sfide sono ciò che rendono la vita interessante, superarle è ciò che le rende significativa."
+        },
+        {
+            "id": 9,
+            "quote": "Ogni passo avanti è un passo più vicino al tuo obiettivo."
+        },
+        {
+            "id": 10,
+            "quote": "La perseveranza è la chiave per trasformare i sogni in realtà."
+        }
+    ]
+}
